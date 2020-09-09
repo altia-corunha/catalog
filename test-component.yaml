@@ -10,3 +10,7 @@ spec:
   type: service
   lifecycle: experimental
   owner: carlos.corton@altia.es
+  extraProp:
+    array:
+      - data1
+      - data2
